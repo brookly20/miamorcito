@@ -209,6 +209,7 @@ body {
 .teamo{
     font-weight: bold;
 }
+
 .posterior_carta{
     cursor: pointer;
     font-size: 30px;
@@ -264,7 +265,7 @@ button:hover{
     transform: scale(1.15);
 }
 
-/*diseño de la bromita*/
+/*diseño de la bromitajeje*/
 
 .chascarrillo{
     position: fixed;

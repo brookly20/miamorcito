@@ -206,6 +206,9 @@ body {
     margin-bottom: 20px;
 }
 
+.teamo{
+    font-weight: bold;
+}
 .posterior_carta{
     cursor: pointer;
     font-size: 30px;
